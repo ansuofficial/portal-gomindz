@@ -1,0 +1,14 @@
+.recp-con:hover .recp-content {
+    color: rgb(255, 0, 0);
+    transition: .3s ease-in-out;
+}
+
+.landing-page-form input {
+    background: none;
+    border: 1px solid slategrey;
+    outline: none;
+}
+
+.landing-page-form button {
+    background: red;
+}

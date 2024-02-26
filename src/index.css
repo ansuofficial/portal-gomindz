@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: linear-gradient(to right, #12122c, #142429);
+}
+
+.hide {
+    display: none;
+}
